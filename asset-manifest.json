@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-Casio/static/css/main.cef6c05c.css",
+    "main.js": "/My-Casio/static/js/main.86dc54fd.js",
+    "static/js/453.73825f7d.chunk.js": "/My-Casio/static/js/453.73825f7d.chunk.js",
+    "index.html": "/My-Casio/index.html",
+    "main.cef6c05c.css.map": "/My-Casio/static/css/main.cef6c05c.css.map",
+    "main.86dc54fd.js.map": "/My-Casio/static/js/main.86dc54fd.js.map",
+    "453.73825f7d.chunk.js.map": "/My-Casio/static/js/453.73825f7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef6c05c.css",
+    "static/js/main.86dc54fd.js"
+  ]
+}
